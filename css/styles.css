@@ -1,0 +1,43 @@
+header {
+  background-color: #4286f4; }
+
+header h1 {
+  color: #f44143; }
+
+button {
+  background-color: #f46b41;
+  padding: 10px 20px;
+  margin: 20px;
+  position: relative;
+  left: 400px; }
+
+button a {
+  color: white;
+  font-family: "Helvetica";
+  text-decoration: none; }
+
+div:nth-child(2) {
+  background-color: #62ad5b; }
+
+div:nth-child(2) img {
+  width: 350px; }
+
+div:nth-child(2) img p {
+  color: white;
+  font-family: "Helvetica"; }
+
+div {
+  background-color: #f4cd41;
+  padding: 2em; }
+
+div p {
+  color: white;
+  font-family: "Helvetica";
+  font-size: 16px; }
+
+ul {
+  background: #4286f4;
+  padding: 2em; }
+
+ul li {
+  list-style: none; }
