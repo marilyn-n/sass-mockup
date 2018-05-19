@@ -35,9 +35,17 @@ div p {
   font-family: "Helvetica";
   font-size: 16px; }
 
+footer {
+  background-color: #f4cd41;
+  padding: 1em; }
+
 ul {
-  background: #4286f4;
-  padding: 2em; }
+  background-color: #f44143; }
 
 ul li {
-  list-style: none; }
+  list-style: none;
+  color: white;
+  padding: 1em; }
+
+b {
+  font-family: "Helvetica"; }
