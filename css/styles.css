@@ -1,15 +1,18 @@
 header {
-  background-color: #4286f4; }
+  background-color: #f4cd41; }
 
 header h1 {
-  color: #f44143; }
+  color: white;
+  text-align: center; }
 
 button {
-  background-color: #f46b41;
+  background-color: #f44143;
   padding: 10px 20px;
   margin: 20px;
   position: relative;
-  left: 400px; }
+  left: 450px;
+  border-radius: 10px;
+  border-color: #f44143; }
 
 button a {
   color: white;
@@ -20,23 +23,31 @@ div:nth-child(2) {
   background-color: #62ad5b; }
 
 div:nth-child(2) img {
-  width: 350px; }
-
-div:nth-child(2) img p {
-  color: white;
-  font-family: "Helvetica"; }
+  width: 500px; }
 
 div {
   background-color: #f4cd41;
   padding: 2em; }
 
 div p {
-  color: white;
+  color: black;
   font-family: "Helvetica";
   font-size: 16px; }
 
+.therd-p {
+  float: right;
+  position: relative;
+  right: 150px; }
+
 footer {
   background-color: #f4cd41;
+  padding: 1em; }
+
+footer .copyright {
+  background-color: gray; }
+
+footer .copyright b {
+  font-family: "Helvetica";
   padding: 1em; }
 
 ul {
@@ -46,6 +57,3 @@ ul li {
   list-style: none;
   color: white;
   padding: 1em; }
-
-b {
-  font-family: "Helvetica"; }
