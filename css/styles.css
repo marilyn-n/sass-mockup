@@ -1,3 +1,9 @@
+.anchor-default, button a, ul li {
+  color: white;
+  font-family: "Helvetica";
+  text-decoration: none;
+  list-style: none; }
+
 header {
   background-color: #f4cd41; }
 
@@ -13,11 +19,6 @@ button {
   left: 450px;
   border-radius: 10px;
   border-color: #f44143; }
-
-button a {
-  color: white;
-  font-family: "Helvetica";
-  text-decoration: none; }
 
 div:nth-child(2) {
   background-color: #62ad5b; }
@@ -59,6 +60,4 @@ ul {
   background-color: #f44143; }
 
 ul li {
-  list-style: none;
-  color: white;
   padding: 1em; }
